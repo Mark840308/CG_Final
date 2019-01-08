@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 266eeaa7d787d495c89b22a99ea0a6d8
+timeCreated: 1485074422
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 38
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SetoFont-SP
+  fontNames:
+  - SetoFont-SP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
